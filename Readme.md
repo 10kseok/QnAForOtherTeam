@@ -8,3 +8,4 @@
 git checkout '커밋코드?' : 해당 시점으로 돌아갈 수 있음
 git checkout master : 다시 원본으로 돌아옴
 
+## 답변 감사합니다륑
